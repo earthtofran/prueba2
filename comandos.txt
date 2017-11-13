@@ -1,0 +1,11 @@
+git init
+git add
+git status
+git commit
+git log
+git log --oneline
+git annotate <files>
+git show <commit>
+git checkout -b <branchName>
+git branch
+git checkout <branchName>
